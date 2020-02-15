@@ -1,0 +1,8 @@
+#app-content {
+	box-shadow: none;
+	margin: 0;
+}
+
+#app-header {
+	display: none;
+}

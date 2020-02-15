@@ -1,0 +1,18 @@
+#paper-subheader {
+	/*width: 24rem;*/
+}
+
+dt {
+	text-transform: uppercase;
+	font-weight: bold;
+	color: var(--color-green);
+	
+}
+	dt:not(:first-child) {
+		margin-top: 1em;
+	}
+
+dd {
+	margin-left: 0;
+
+}
